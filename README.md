@@ -16,20 +16,21 @@ Just link one CSS file in your project and it's done many famous frameworks are 
 # Basic usage
 1. Include the stylesheet in your project after placing the required files with <code>index.html</code> file. <br />
 <code>
-<head>
+<pre><head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="mashup.css">
-</head>
+</head></pre>
 </code>
 <br />
 2. Now enjoy using your classes that you generally use after adding hell lots of style sheets.
 <br />
-#License
+
+# License
 License is shared in License file of this repository.
 <br />
 
-#Warning
+# Warning
 Just published this framework for fun while learning how to use Git and Github.
 <br />
-#Contributing
+# Contributing
 Do Star, fork, share or contribute if you liked the project.
