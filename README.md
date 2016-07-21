@@ -15,12 +15,11 @@ Just link one CSS file in your project and it's done many famous frameworks are 
 <br />
 # Basic usage
 1. Include the stylesheet in your project after placing the required files with <code>index.html</code> file. <br />
-<code>
-<pre><head>
+Add these tags to your <code>head</code> tag. <br />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="mashup.css">
-</head></pre>
-</code>
+
+
 <br />
 2. Now enjoy using your classes that you generally use after adding hell lots of style sheets.
 <br />
