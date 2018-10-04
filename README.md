@@ -20,7 +20,7 @@ index.html file is shared for demo purpose.
 <br />
 
 # License
-License is shared in License file of this repository.
+License is shared in License file of this repository. You must look for licenses before using any library.
 <br />
 
 # Warning
